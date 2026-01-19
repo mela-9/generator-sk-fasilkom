@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Talitha Zafirah",
+      "nim": "09010582226036"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.1",
+      "hari_tanggal": "Kamis, 26 Juni 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Perancangan dan Pembangunan Aplikasi Booking pada Kelurahan Plaju Darat Berbasis Website",
+    "tim_penguji": [
+      "Muhammad Qurhanul Rizqie, M.T., Ph.D.",
+      "Bayu Wijaya Putra, S.Kom., M.Kom.",
+      "Willy, S.Kom., M.Kom.",
+      "Junia Kurniati, S.Kom., M.Kom."
+    ],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 2,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Fakhri Sepriansyah",
+      "nim": "09010582226043"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.2",
+      "hari_tanggal": "Kamis, 26 Juni 2025",
+      "jam": "09.10-10.10 WIB"
+    },
+    "judul_ta": "Rancang Bangun Aplikasi Survei Kepuasan Layanan pada Dinas Lingkungan Hidup Kota Palembang",
+    "tim_penguji": [
+      "Willy, S.Kom., M.Kom.",
+      "M. Rudi Sanjaya, S.Kom., M.Kom.",
+      "Iin Seprina, M.Kom.",
+      "Dewi Sartika, S.Kom., M.Kom."
+    ],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 3,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Tya Afifah",
+      "nim": "09010582226004"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.1",
+      "hari_tanggal": "Kamis, 26 Juni 2025",
+      "jam": "09.10-10.10 WIB"
+    },
+    "judul_ta": "Rancang Bangun Aplikasi Penjadwalan Pelajaran Berbasis Website di Pondok Pesantren Al Amalul Khair Palembang",
+    "tim_penguji": [
+      "Junia Kurniati, S.Kom., M.Kom.",
+      "M. Rudi Sanjaya, S.Kom., M.Kom.",
+      "Muhammad Qurhanul Rizqie, M.T., Ph.D.",
+      "Yesinta Florensia, M.Kom."
+    ],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 4,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "M Reza Argi Pratama",
+      "nim": "09010582125005"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.2",
+      "hari_tanggal": "Kamis, 26 Juni 2025",
+      "jam": "10.20-11.20 WIB"
+    },
+    "judul_ta": "Perancangan Aplikasi Kasir Berbasis Website Pada Toko Yayang",
+    "tim_penguji": [
+      "Willy, S.Kom., M.Kom.",
+      "M. Rudi Sanjaya, S.Kom., M.Kom.",
+      "Hasnan Afif, S.Kom., M.Kom.",
+      "Junia Kurniati, S.Kom., M.Kom."
+    ],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 5,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Data Tidak Lengkap",
+      "nim": "09010582125005"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "10.20-11.20 WIB"
+    },
+    "judul_ta": "Dewi Sartika, S.Kom., M.Kom.\rKamis, 26 Juni 2025",
+    "tim_penguji": [],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 6,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Data Tidak Lengkap",
+      "nim": "09010582226031"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "13.00-14.00 WIB"
+    },
+    "judul_ta": "Dewi Sartika, S.Kom., M.Kom.\rKamis, 26 Juni 2025",
+    "tim_penguji": [],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 7,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Ishlah Ashriah Mudrikah",
+      "nim": "09010582226017"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.1",
+      "hari_tanggal": "Rusdi Efendi, M.Kom.",
+      "jam": "13.00-14.00 WIB"
+    },
+    "judul_ta": "Rancang Bangun Aplikasi Inventaris Barang Berbasis Website pada ENCAR Daihatsu Palembang",
+    "tim_penguji": [
+      "Hasnan Afif, S.Kom., M.Kom.",
+      "Yunita, S.Si., M.Cs.",
+      "-"
+    ],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 8,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Data Tidak Lengkap",
+      "nim": "09010582226017"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "14.00-15.00 WIB"
+    },
+    "judul_ta": "Anna Dwi Marjusalinah, S.Kom., M.Kom.\rJum'at, 11 Juli 2025",
+    "tim_penguji": [],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 9,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Shofy Aura Fadhilah",
+      "nim": "09010582226008"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.2",
+      "hari_tanggal": "Hasnan Afif, S.Kom., M.Kom.",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Aplikasi Absensi Pegawai Menggunakan QR Code Berbasis Website Pada Klinik Kesehatan Mediska Kota Prabumulih",
+    "tim_penguji": [
+      "Junia Kurniati, S.Kom., M.Kom.",
+      "Yunita, S.Si., M.Cs.",
+      "-"
+    ],
+    "kategori_dokumen": "SK_TIM_PENGUJI"
+  },
+  {
+    "id": 10,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Shofy Aura Fadhilah",
+      "nim": "09010582226008"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.2",
+      "hari_tanggal": "Hasnan Afif, S.Kom., M.Kom.",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Aplikasi Absensi Pegawai Menggunakan QR Code Berbasis Website Pada Klinik Kesehatan Mediska Kota Prabumulih",
+    "tim_penguji": [
+      "Junia Kurniati, S.Kom., M.Kom.",
+      "Yunita, S.Si., M.Cs.",
+      "-"
+    ],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 11,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "08.00-09.00",
+      "nim": "09010582226008"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Yesinta Florensia, M.Kom.\rJum'at, 11 Juli 2025",
+    "tim_penguji": [],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 12,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Boby Herlangga",
+      "nim": "09010582226022"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.2",
+      "hari_tanggal": "Anna Dwi Marjusalinah, S.Kom., M.Kom.",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Aplikasi Dokumen Pengajuan Tugas Akhir Di Prodi Manajemen Informatika Berbasis Website",
+    "tim_penguji": [
+      "Muhammad Qurhanul Rizqie, M.T., Ph.D.",
+      "Bayu Wijaya Putra, S.Kom., M.Kom.",
+      "-"
+    ],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 13,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "09.10-10.10",
+      "nim": "09010582226022"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Hasnan Afif, S.Kom., M.Kom.\rJum'at, 11 Juli 2025",
+    "tim_penguji": [],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 14,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "10.20-11.20",
+      "nim": "09010582226015"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Dewi Sartika, S.Kom., M.Kom.\rJum'at, 11 Juli 2025",
+    "tim_penguji": [],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 15,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "M. Ali Royan",
+      "nim": "09010582226042"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.2",
+      "hari_tanggal": "Jum'at, 11 Juli 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Rancang Bangun Aplikasi Inventaris Barang Berbasis Website pada SMA Al-Amalul Khair",
+    "tim_penguji": [
+      "Rusdi Efendi, M.Kom.",
+      "M. Rudi Sanjaya, S.Kom. M.Kom.",
+      "Iin Seprina, M.Kom.",
+      "Anna Dwi Marjusalinah, S.Kom., M.Kom."
+    ],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 16,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "Prima Amadeo D Pandora Gultom",
+      "nim": "09010582226032"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Ruang Kelas 2.1",
+      "hari_tanggal": "Jum'at, 25 Juli 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Aplikasi Arsip Surat Keluar pada Kelurahan Plaju Darat Berbasis Website",
+    "tim_penguji": [
+      "Hasnan Afif, S.Kom., M.Kom.",
+      "Bayu Wijaya Putra, S.Kom., M.Kom.",
+      "Anna Dwi Marjusalinah, S.Kom., M.Kom.",
+      "Iin Seprina, M.Kom."
+    ],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  },
+  {
+    "id": 17,
+    "nomor_surat": "Nomor: .../UN9.FASILKOM/2025",
+    "program_studi": "Manajemen Informatika",
+    "mahasiswa": {
+      "nama": "13.00-14.00",
+      "nim": "09010582226032"
+    },
+    "detail_pelaksanaan": {
+      "ruang": "Menunggu Konfirmasi",
+      "hari_tanggal": "24 Juni 2025",
+      "jam": "Terjadwal"
+    },
+    "judul_ta": "Judul Belum Diinput",
+    "tim_penguji": [],
+    "kategori_dokumen": "SURAT IZIN KERJA PRAKTIK"
+  }
+]
