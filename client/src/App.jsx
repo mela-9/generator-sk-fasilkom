@@ -90,8 +90,8 @@ function App() {
             <tbody>
                 <tr><td className="border border-black p-1">Ketua Penguji</td><td className="border border-black p-1 font-bold">{data.p1}</td></tr>
                 <tr><td className="border border-black p-1">Sekretaris</td><td className="border border-black p-1 font-bold">{data.p2}</td></tr>
-                <tr><td className="border border-black p-1">Anggota 1</td><td className="border border-black p-1 font-bold">{data.p3}</td></tr>
-                <tr><td className="border border-black p-1">Anggota 2</td><td className="border border-black p-1 font-bold">{data.p4}</td></tr>
+                <tr><td className="border border-black p-1">Anggota1</td><td className="border border-black p-1 font-bold">{data.p3}</td></tr>
+                <tr><td className="border border-black p-1">Anggota2</td><td className="border border-black p-1 font-bold">{data.p4}</td></tr>
             </tbody>
           </table>
         </>
